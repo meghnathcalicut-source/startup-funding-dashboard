@@ -42,13 +42,13 @@ This was my **first Power BI project**, created to practice data cleaning, visua
 
 ## Preview (Screenshots)
 
-![Funding Overview](https://github.com/meghnathcalicut-source/startup-funding-dashboard/blob/main/industry-city-insights.png)  
+![Funding Overview](https://github.com/meghnathcalicut-source/startup-funding-dashboard/blob/main/funding-overview.png)  
 *Figure 1: Overview of Indian startup funding (2015–2020)*  
 
-![Yearly Trends](images/yearly-trends.png)  
+![Yearly Trends](https://github.com/meghnathcalicut-source/startup-funding-dashboard/blob/main/yearly-trends.png)  
 *Figure 2: Yearly funding trends by investment amount and number of startups*  
 
-![Industry & City Insights](images/industry-city-insights.png)  
+![Industry & City Insights](https://github.com/meghnathcalicut-source/startup-funding-dashboard/blob/main/industry-city-insights.png)  
 *Figure 3: Funding distribution by industry and top startup hubs in India*  
 
 ---
