@@ -42,7 +42,7 @@ This was my **first Power BI project**, created to practice data cleaning, visua
 
 ## Preview (Screenshots)
 
-![Funding Overview](images/funding-overview.png)  
+![Funding Overview](https://github.com/meghnathcalicut-source/startup-funding-dashboard/blob/main/industry-city-insights.png)  
 *Figure 1: Overview of Indian startup funding (2015–2020)*  
 
 ![Yearly Trends](images/yearly-trends.png)  
