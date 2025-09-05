@@ -42,8 +42,6 @@ This was my **first Power BI project**, created to practice data cleaning, visua
 
 ## Preview (Screenshots)
 
-*(Make an `images` folder in this repo, upload your screenshots there, then update the file names below)*  
-
 ![Funding Overview](images/funding-overview.png)  
 *Figure 1: Overview of Indian startup funding (2015–2020)*  
 
