@@ -53,6 +53,9 @@ Dataset source: [Indian Startup Funding (Jan 2015 – Apr 2021) – Kaggle](http
 ![Industry & City Insights](https://github.com/meghnathcalicut-source/startup-funding-dashboard/blob/main/industry-city-insights.png)  
 *Figure 3: Funding by industry vertical and top startup hubs*  
 
+![interactive demo](https://github.com/meghnathcalicut-source/startup-funding-dashboard/blame/main/Screen%20Recording%202025-09-05%20154451.mp4)  
+*Figure 4: interactive demo video*  
+
 ---
 
 ## Next Steps
